@@ -2,8 +2,8 @@
 ## Página em Desenvolvimento
 ### Lista de tarefas a cumprir
 1. [x] Criar Perfil
-2. [ ] Organizar Post
-3. [ ] Colocar texto de apresentação
+2. [x] Organizar Post
+3. [x] Colocar texto de apresentação
 4. [ ] adicionar experiencias
 ## com cada tarefa termina, adicionarei mais, ai completarei tudo.
 
