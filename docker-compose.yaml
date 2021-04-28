@@ -2,8 +2,8 @@ version: "3"
 
 services:
   web:
-    image: charlles2019/portfolio-html
+    build: .
     ports:
       - 8080:80
     volumes:
-      - "./israel206.github.io:/usr/share/nginx/html/israel206githubio"
+      - "./:/usr/share/nginx/html/israel206githubio"
