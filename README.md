@@ -62,6 +62,7 @@ Clone the project and access the folder
 ## 💻 Project
 
 App to always remember to water your plants 🌱
+
 demonstration link da page [demonstration](https://israel206.github.io/)
 
 This is a project developed during the **[Personal Portfolio Complete](https://www.youtube.com/watch?v=ONqgNVWJ-Dw&t=0s)**, presented by **[canal: The WebShala](https://www.youtube.com/channel/UC94lpQZvaokkIqU-TvtsGXQ)** during 2021.
